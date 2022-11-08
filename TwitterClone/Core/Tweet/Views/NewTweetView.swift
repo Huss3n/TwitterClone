@@ -48,7 +48,6 @@ struct NewTweetView: View {
                TextArea("What's happening? ", text: $caption)
                 
             }
-            Spacer()
             .padding()
         }
     }
