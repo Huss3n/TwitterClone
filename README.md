@@ -17,4 +17,4 @@ The database i used is firebase to authenticate and register new useers
 
 ## Sample tweets view
 <img src = "TwitterClone/scrnshots/tweets.png" width = 400>
-The tweets is a list view that will be populated usind the twitter api
+The tweets is a list view that will be populated using the twitter api
